@@ -32,8 +32,15 @@ article
     width: 230px;
     height: 150px;
     background-color:hotpink;
-    font-size: 25px;
+    font-size: 30px;
     font-weight: bold;
     color: #ffffff;
-    text-align: center;
+    text-align: center; 
+    padding-top: 60px;
+    margin-right: 50px;
+}
+
+.last-article
+{
+    margin-right: 0;
 }
