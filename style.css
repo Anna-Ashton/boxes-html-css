@@ -1,6 +1,24 @@
 div {
+    width: 300px;
+    height: 200px;
     background-color: #eeeeee;
-    width: 280px;
-    padding: 50px;
+    margin: 50px auto;
     
+     
+
+}
+
+.last-div 
+{
+     padding: 50px;
+     box-sizing: border-box; 
+
+}
+
+section
+{
+    background-color: #bcbcbc;
+    width: 200px;
+    height: 100px;
+
 }
